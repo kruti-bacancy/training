@@ -1,0 +1,11 @@
+ve this file in the 'contributors' folder in Patchwork: Patchwork/contributors/add-yourusername.txt
+Next, check in your changes!
+Step: Check-in
+
+Go through the steps for checking in a project:
+
+$ git status
+
+$ git add <FILENAME>
+
+$ git commit -m "<commit message>"
